@@ -1,5 +1,4 @@
-// Hello World em JavaScript - Versão A
+// Hello World em JavaScript - Versão B
 
-const GREETINGS = "Olá, Mundo!";
-
+const GREETINGS = "Hello, World!";
 console.log(GREETINGS);
