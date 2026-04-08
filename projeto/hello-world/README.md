@@ -2,8 +2,8 @@
 
 Projeto simples usado como base para praticar Git.
 
-## Como rodar
+# Como rodar
 
-'''TTerminal;
+```bash
 node index.js
-'''
+```
